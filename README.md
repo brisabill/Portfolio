@@ -88,7 +88,6 @@ Exploration of high-dimensional embeddings with:
 - Dimensionality reduction for epidemiological datasets  
 
 **Screenshot:**  
-<img width="1912" height="867" alt="3" src="https://github.com/user-attachments/assets/c0afb62a-184d-44bb-9781-7533bb2c5bbf" />
 <img width="1886" height="873" alt="Screenshot 2025-12-12 220005" src="https://github.com/user-attachments/assets/6f383ea3-228e-4c1b-958f-ce4f2c3ad607" />
 
 ---
