@@ -13,29 +13,26 @@ This portfolio highlights my main projects, including dashboards, statistical an
 
 Interactive dashboard featuring:
 - HPV vaccination coverage by state and year  
-- Geospatial maps (PNI + IBGE)  
+- Geospatial maps PNI (for vaccination data)  + IBGE (for population data)  
 - Age distribution heatmaps  
-- Dose schedule trends  
-- State contribution analysis  
-- Temporal patterns and epidemiological insights  
+
 
 **Screenshot:**  
-![HPV Dashboard](images/hpv_dashboard.png)
-<img width="1125" height="1125" alt="HPV Vaccination Coverage (Ages 9–14)" src="https://github.com/user-attachments/assets/e02129af-3b9e-4e09-bf87-a41a603a810d" />
+<img width="1398" height="855" alt="4" src="https://github.com/user-attachments/assets/d410e296-d861-49c6-9dc5-9d0ce8a5e54f" />
 
 ---
 
 ### **2. Respiratory Virus Surveillance – France**
 🔗 https://brisabill.shinyapps.io/relab_app/
 
-Dashboard for RSV, Influenza, and SARS-CoV-2 surveillance:
+Dashboard for RSV, Influenza, and SARS-CoV-2 surveillance in France:
 - Department-level positivity maps  
 - Virus and period selection  
-- Clean, responsive UI  
-- Real-world surveillance data  
+ 
 
 **Screenshot:**  
-![RSV Map](images/rsv_map.png)
+<img width="1856" height="867" alt="1" src="https://github.com/user-attachments/assets/8d5433d8-2f6f-4854-a7fd-20314e9a8026" />
+
 
 ---
 
@@ -45,7 +42,7 @@ Dashboard for RSV, Influenza, and SARS-CoV-2 surveillance:
 Geospatial visualization of HPV vaccination coverage across Brazil.
 
 **Screenshot:**  
-![HPV Maps](images/hpv_maps.png)
+<img width="1125" height="1125" alt="HPV Vaccination Coverage (Ages 9–14)" src="https://github.com/user-attachments/assets/843aa74a-51be-4396-8854-e9018ede47d7" />
 
 ---
 
@@ -53,7 +50,7 @@ Geospatial visualization of HPV vaccination coverage across Brazil.
 Analysis of dose distribution (Dose 1, Dose 2, 3+, booster, single dose).
 
 **Screenshot:**  
-![Dose Schedule](images/dose_schedule.png)
+<img width="575" height="417" alt="HPV Vaccination Dose Schedule" src="https://github.com/user-attachments/assets/5fbc0872-9987-4b95-affa-26f600ba71ff" />
 
 ---
 
@@ -61,7 +58,7 @@ Analysis of dose distribution (Dose 1, Dose 2, 3+, booster, single dose).
 Vaccination counts by age group and year.
 
 **Screenshot:**  
-![Age Heatmap](images/age_heatmap.png)
+<img width="575" height="417" alt="HPV age distribution" src="https://github.com/user-attachments/assets/55fe5834-0eec-448e-adc8-006254fd9a21" />
 
 ---
 
@@ -69,7 +66,7 @@ Vaccination counts by age group and year.
 Percentage contribution of each Brazilian state to total HPV vaccinations.
 
 **Screenshot:**  
-![Contribution Table](images/contribution_table.png)
+![Vaccination Contribution by State](https://github.com/user-attachments/assets/da635027-caa5-48bb-93b5-5f5ac28f1dbc)
 
 ---
 
@@ -79,7 +76,7 @@ Percentage contribution of each Brazilian state to total HPV vaccinations.
 Comparison of transplant types (HSCT vs KT) for time to breakthrough PJP.
 
 **Screenshot:**  
-![KM Curve](images/km_curve.png)
+<img width="1125" height="1125" alt="Rplot01" src="https://github.com/user-attachments/assets/6043f31b-c06d-4650-8ece-32c366c37a14" />
 
 ---
 
@@ -91,38 +88,24 @@ Exploration of high-dimensional embeddings with:
 - Dimensionality reduction for epidemiological datasets  
 
 **Screenshot:**  
-![Embeddings](images/embeddings.png)
+<img width="1912" height="867" alt="3" src="https://github.com/user-attachments/assets/c0afb62a-184d-44bb-9781-7533bb2c5bbf" />
+<img width="1886" height="873" alt="Screenshot 2025-12-12 220005" src="https://github.com/user-attachments/assets/6f383ea3-228e-4c1b-958f-ce4f2c3ad607" />
 
 ---
 
 ## 🛠️ Tech Stack
 
 - **R:** tidyverse, shiny, ggplot2, sf, data.table, survival  
-- **Python:** pandas, numpy, scikit-learn  
 - **Visualization:** geospatial mapping, dashboards, ML projections  
 - **Deployment:** ShinyApps.io  
 - **Data Skills:** cleaning, wrangling, pipelines, exploratory analysis  
 
----
-
-## 📂 Selected Repositories
-
-- **HPV Dashboard** – full Shiny code  
-- **Respiratory Virus Surveillance** – full Shiny code  
-- **Epidemiology Utilities** – helper functions for analysis  
-- **Exploratory Data Analysis** – notebooks and scripts  
-- **ML Embeddings Experiments** – PCA, t-SNE, UMAP workflows  
-
----
 
 ## 📬 Contact
 
 - **LinkedIn:** https://www.linkedin.com/in/brisaletieres  
 - **Email:** brisabill@hotmail.com  
 - **GitHub:** https://github.com/brisabill  
-- **ShinyApps:** https://www.shinyapps.io/admin  
-
 ---
-
 Thank you for visiting my portfolio!  
 Feel free to explore the projects and reach out if you'd like to collaborate.
