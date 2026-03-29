@@ -21,6 +21,7 @@ Interactive dashboard featuring:
 
 **Screenshot:**  
 ![HPV Dashboard](images/hpv_dashboard.png)
+<img width="1125" height="1125" alt="HPV Vaccination Coverage (Ages 9–14)" src="https://github.com/user-attachments/assets/e02129af-3b9e-4e09-bf87-a41a603a810d" />
 
 ---
 
